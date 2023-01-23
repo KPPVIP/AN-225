@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_an225</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>11/09/2015 21:18:11</timeStamp>
+  <nameHash>an225</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>an225_AUTOGEN</Item>
+        <Item>an225_UNLOCKS_AUTOGEN</Item>	
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="32" />  
+</SSetupData>

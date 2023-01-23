@@ -1,0 +1,46 @@
+AN-225 Mriya
+------------
+
+
+Mod features:
+-working gauges
+-working flaps
+-openable cargohold
+-working thrust reversers
+-working lights
+-bullet impact
+-dirt mapping
+
+Original Model:
+FSX - Thomas Ruth
+
+Converted by: SkylineGTRFreak
+
+
+Door controls:
+Left front door - Lower flight deck door (front)
+Right front door - Thrust reversers
+Left rear door - Upper flight deck door (rear)
+Right rear door - Upper flight deck door (front)
+Hood - Nose
+Boot - Cargoramp
+
+
+Please mention me and my YouTube channel ( https://www.youtube.com/user/SkylineGTRR34Freak ) if you're making a video of this.
+
+-----------------------------------------------------------------------------
+Instructions [Add-On]:
+
+1. Place the "an225" folder into [Gamefolder]\update\X64\dlcpacks\
+
+2. With OpenIV, extract [Game folder]\update\update.rpf\common\data\dlclist.xml and edit this with Notepad++. Add the following entry:
+		<Item>dlcpacks:\an225\</Item>
+
+3. Now you are done, you will need a trainer with "spawn by name" function (Enhanced Native Trainer for example) to spawn the vehicle type in:
+
+"an225"
+
+
+
+I would advise using a Mods folder (more info at OpenIV) 
+and make a backup, I take no responsibility if any shit happens.
